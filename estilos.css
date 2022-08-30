@@ -10,5 +10,14 @@ h1,h2{
 }
 body {
     color: blue;
-
+}
+#t4{
+    color: goldenrod;
+    font-size: 30px;
+    font-family: "trebuchet";
+}
+.estilo1{
+    color: #4A235A;
+    font-style: italic;
+    font-size: 25px;
 }
